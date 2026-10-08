@@ -91,7 +91,7 @@ If you use this codebase, methodology, or dataset in academic research, please c
 ```bibtex
 @article{tabrizian2026ssgcps,
   author  = {Tabrizian Sichani, Mohammad Amin and Omidifar, Mahya and Delaram, Jalal},
-  title   = {Optimal Defense Resource Allocation in Cyber-Physical Systems: A Bilevel Stackelberg Security Game with Strong-Duality Reformulation},
+  title   = {Bilevel Stackelberg Game for Optimal Cyber-Physical Security Investment in Process Control Networks},
   journal = {International Journal of Information Security},
   year    = {2026},
   url     = {https://github.com/tabrizianma-lab/cps-ssg-optimization}
