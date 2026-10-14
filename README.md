@@ -3,8 +3,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Python: 3.9+](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://www.python.org/)
 [![Optimization: HiGHS](https://img.shields.io/badge/Solver-HiGHS%20%28SciPy%2Fhighspy%29-green.svg)](https://highs.dev/)
-[![DOI: Zenodo](https://img.shields.io/badge/DOI-Zenodo%20Archive-blue)](https://doi.org/)
-[![Journal: IJIS](https://img.shields.io/badge/Submitted%20to-Int.%20J.%20Inf.%20Secur.%20%28IJIS%29-red)](https://www.springer.com/journal/10207)
 
 This repository contains the complete computational reproduction suite and empirical dataset for the paper:
 
@@ -149,7 +147,7 @@ If you use this codebase, model formulation, or dataset in your research, please
 
 * **Mohammad Amin Tabrizian**  
   School of Industrial Engineering, College of Engineering, University of Tehran, Tehran, Iran  
-  Email: `m.a.tabrizian@ut.ac.ir`
+  Email: `ma.tabrizian@ut.ac.ir`
 
 * **Mahya Omidifar**  
   Department of Industrial Engineering, Sharif University of Technology, Tehran, Iran  
