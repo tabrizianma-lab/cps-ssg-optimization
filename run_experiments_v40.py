@@ -1,7 +1,7 @@
 """
   Bilevel Stackelberg Security Game (SSG) for Cyber-Physical Process Control Networks
-  Artifact & Reproducibility Suite v40 for IJIS Submission
-  Repository: https://github.com/tabrizianma-lab/cps-ssg-optimization (or designated repo)
+  Artifact & Computational Reproducibility Suite v40
+  Repository: https://github.com/tabrizianma-lab/cps-ssg-optimization
   License: MIT
 
   ENVIRONMENT DESCRIPTION (v40, pinned for reproducibility)
@@ -20,7 +20,6 @@
 """
 Optimal Defensive Resource Allocation in Cyber-Physical Systems via Stackelberg Security Games
 Engine: Native SciPy MILP (HiGHS Backend) - High Performance & Python 3.14 Compatible
-Target Journal: International Journal of Information Security (IJIS)
 """
 
 import os
@@ -580,4 +579,4 @@ def render_manuscript_figures(pareto_df, heatmap_df, big_m_df, shift_df):
 if __name__ == "__main__":
     pareto, heatmap, big_m, shift = execute_full_suite()
     render_manuscript_figures(pareto, heatmap, big_m, shift)
-    print("\n[+] Full Suite Completed: Excel & 4 Figures Ready for IJIS Submission.")
+    print("\n[+] Full Suite Completed: Excel & 4 Figures Ready for Submission.")
